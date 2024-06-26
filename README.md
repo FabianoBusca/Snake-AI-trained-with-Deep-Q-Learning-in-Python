@@ -33,3 +33,7 @@ The deep Q-learning model used in this project is based on a dense neural networ
 - 4 values indicate the location of the food (whether it is above, below, to the left, or to the right of the snake's head).
 
 The model learns to play the game by optimizing its actions to maximize its cumulative reward over time, using the deep Q-learning algorithm.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
