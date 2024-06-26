@@ -1,8 +1,8 @@
+![Preview Gif](Preview.gif)
+
 # Snake AI trained with Deep Q-Learning in Python
 
 This project implements the classic snake game using Pygame, along with an agent playing it through reinforcement learning and deep Q-learning, powered by a PyTorch deep neural network.
-
-![alt text](Gif.gif)
 
 ## Usage
 
